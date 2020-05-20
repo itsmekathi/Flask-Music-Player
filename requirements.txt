@@ -18,7 +18,7 @@ Flask-Social==1.6.2
 Flask-SQLAlchemy==2.4.1
 Flask-Uploads==0.2.1
 Flask-WTF==0.14.2
-httplib2==0.14.0
+httplib2==0.18.0
 itsdangerous==1.1.0
 Jinja2==2.10.3
 Mako==1.1.0
